@@ -16,11 +16,10 @@ Estudante de **Ciência da Computação na FIAP** 🎓. Atualmente focado em **A
 
 ### 👾 My Vibe
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Z3RrZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenl3amkxajlmaWlreGJuMGw4dzE2ajFzb3pmNmJ1NGxlaHB6aXhzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif)" width="400">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenl3amkxajlmaWlreGJuMGw4dzE2ajFzb3pmNmJ1NGxlaHB6aXhzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif" width="400">
 </p>
 
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arthur-casqueira-berthi-7740131a6/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Berthiarthur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-casqueira-berthi-7740131a6/)
