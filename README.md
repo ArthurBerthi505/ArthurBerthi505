@@ -6,7 +6,7 @@ Atualmente graduando em **Ciência da Computação na FIAP** 🎓 e atuando na i
 * ⚙️ Especialista em criar workflows inteligentes com **n8n**.
 * 🚀 Desenvolvendo projetos robustos com **C# (.NET)** e **Python**.
 * 🕹️ Explorando o baixo nível e performance com **C++**.
-* 
+  
 ### 🛠️ Tecnologias e Linguagens
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
